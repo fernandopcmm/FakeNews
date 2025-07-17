@@ -14,4 +14,4 @@ Ordem:
 - df_disc_fake_clean.R
 - df_disc_fake_descriptive.R
 - df_disc_fake_vocab.R
-- LDA_leis_fake.R
+- LDA_disc_fake.R
