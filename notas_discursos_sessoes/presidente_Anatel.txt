@@ -1,0 +1,647 @@
+﻿a todos. Reunião de audiência pública extraordinária conjunta, Comissão de Ciência,
+Tecnologia e Inovação e Comissão de Comunicação. Declaro aberta a presente reunião de audiência
+pública conjunta da Comissão de Ciência, Tecnologia e Inovação e da Comissão de
+Comunicação convocada com o objetivo de discutir o novo sistema projetado para combater
+a disseminação das fake news nas redes sociais. Essa audiência pública está sendo realizada
+em virtude da aprovação do requerimento número 4 de 2024 do deputado Amaro Neto,
+subscrito pelos deputados Gilson Daniel e Sargento Portugal, Márcio Gerre, Ossércio Silva e
+Júlio César Ribeiro. E número 4 de 2024 também do deputado Amaro Neto.
+Esclarecimentos. Os procedimentos a serem adotados na condução dos trabalhos serão
+os seguintes. O presidente da Anatel terá 40 minutos para fazer sua exposição sem
+possibilidade de apartes. Encerrada a exposição, será concedida a palavra aos deputados inscritos,
+respeitada a ordem de inscrição pelo prazo de 3 minutos. A cada 3 interpelações passaremos
+a palavra ao presidente que disporá do mesmo tempo para as respostas. A lista de inscritos
+pode ser consultada no aplicativo do Infoleg, na opção oradores relativa a essa reunião.
+Informo que essa reunião está sendo transmitida ao vivo pela internet e pode ser acessada
+pela página das comissões no portal da câmara ou pelo YouTube no canal oficial da casa.
+Após a audiência, a apresentação em multimídia será disponibilizada para consulta na página
+da comissão. Nesse momento, eu dou as boas-vindas ao nosso
+querido presidente Carlos Emmanuel, seja muito bem-vindo e passo a presidência dessa audiência
+pública ao autor do requerimento, deputado Amário Neto.
+Bom dia a todos. No início do nosso trabalho aqui na audiência pública, com a audiência
+convido o presidente da ANATEL, Carlos Manuel Baigorri, para fazer a sua exposição, mas
+antes para sentar aqui a nossa mesa para que ele possa fazer a exposição do tema que
+nós vamos discutir na manhã de hoje. Antes de iniciarmos o trabalho, vamos ver
+como a audiência está se movendo.
+[Pausa]
+[Pausa]
+Antes do presidente Baigorri, da nossa ANATEL, eu gostaria de um minuto de todos os presentes
+para que a gente possa falar sobre o tema. Excelentíssimos colegas deputados, membros
+da comissão, das comissões de comunicação e ciência e tecnologia, representantes da
+ANATEL, senhoras e senhores servidores, demais presentes, a todos que nos acompanham nos
+canais de comunicação da casa. Mais uma vez, bom dia a todos.
+É com grande preocupação que me dirijo a todos nessa audiência pública como proponente
+e profissional de comunicação para discutirmos um tema de extrema relevância para a democracia
+brasileira, a disseminação de notícias falsas na internet, especialmente em ano eleitoral.
+Vivemos uma era em que a informação é acessível em um clique, porém, com essa facilidade,
+também surgem os desafios representados pelas fake news, que junto com o advento da inteligência
+social, ameaçam a integridade do processo democrático. Ao passo que defendemos a liberdade
+de expressão, também precisamos pensar na necessidade de que essa liberdade seja exercida
+de maneira responsável. As eleições de 2022 foram marcadas por uma profusão de informações
+distorcidas, manipuladas e até mesmo inventadas, que circularam pelas redes sociais, influenciando
+o debate público e comprometendo a escolha dos eleitores. Mas não é apenas no âmbito
+político que as fake news representam um perigo. Recentemente estamos vivendo a tragédia das
+chuvas do Rio Grande do Sul, onde informações falsas circularam amplamente, dificultando
+o trabalho das autoridades e colocando vidas em risco. Além dos exemplos mencionados, é
+crucial ressaltar os danos causados pela disseminação de notícias falsas durante a pandemia de
+Covid-19. Desde o início da crise global de saúde, testemunhamos uma enxurrada de informações
+falsas circulando pelas redes sociais e outros meios de comunicação. Relato isso, senhores,
+com quem está à frente de um jornal há anos. Eu sou apresentador de TV e profissional de
+comunicação há mais de 30 anos e jamais tinha visto algo igual. Essas fake news minaram os
+esforços da saúde pública, colocando em risco a vida e a segurança do povo brasileiro e
+da população em todo o mundo. Vimos a propagação de informações falsas sobre supostas curas
+milagrosas e desinformação sobre a eficácia das medidas de prevenção, como o uso de
+máscaras e vacinação. É por isso que saúdo a iniciativa da Anatel, aqui em nome do presidente
+Baigorri, com a cooperação com o TSE e desenvolver o sistema 2.0, uma ferramenta crucial para
+combater as fake news nas renas das autoridades e das instituições reguladoras. Cabe a cada um de
+nós, enquanto cidadãos, sermos críticos em relação às informações que consumimos e também
+compartilhamos. Devemos promover a educação midiática e alfabetização digital, capacitando
+pessoas a identificar e combater a desinformação. Em um momento em que a desinformação representa
+uma ameaça tão séria para a democracia e para a segurança pública, é fundamental que estejamos
+unidos em nossos esforços para enfrentar esse desafio. Que essa audiência pública seja o primeiro
+passo em direção a uma ação coordenada e eficaz para proteger nossa sociedade contra as
+notícias falsas e garantir a integridade do nosso processo democrático.
+Obrigado pela atenção de todos. Agora vamos à exposição do presidente Carlos Manuel Baigorri,
+presidente da Anatel, para sua exposição. Presidente, primeiro, obrigado pela sua presença,
+sempre muito solícito com o nosso congresso e principalmente com a Câmara dos Deputados.
+O senhor tem um tempo de 40 minutos para falar um pouco sobre o trabalho que está sendo executado
+pela Anatel no que tange ao combate das fake news no processo eleitoral de 2024.
+Obrigado presidente, deputada Maroneto, em seu nome gostaria de saudar todos os parlamentares
+aqui presentes, agradecer a oportunidade de vir aqui apresentar para vossas excelências
+o trabalho que a Anatel tem feito no âmbito do combate às fake news, a desinformação,
+e apresentar os esclarecimentos que foram necessários, uma vez que várias informações
+também distorcidas sobre essa atuação da agência foram disseminadas nas mídias sociais.
+Inicialmente gostaria de explicar um pouco, não explicar, mas esclarecer um pouco quais
+são os poderes e as competências que a Anatel tem previstas na legislação, especificamente
+na lei geral de telecomunicações, que é a lei de 1997 que criou a agência nacional de telecomunicações.
+E enquanto agência nacional de telecomunicações nós temos o que se chama de poder de polícia
+em relação às empresas prestadoras dos serviços de telecomunicações.
+E quando a gente fala poder de polícia gera muita confusão, o pessoal acha que a Anatel é como se fosse
+uma polícia da internet que vai ficar navegando nas redes sociais e procurando conteúdos
+para retirar do ar, não é absolutamente nada disso deputado.
+O que a gente definiu no direito administrativo com o poder de polícia é a previsão legal para a Anatel
+criar normas infralegais, fiscalizar essas normas infralegais e sancionar, punir as empresas que não
+cumprirem com essas normas. É com base nesse poder de polícia que a Anatel cria regras de qualidade,
+de prestação de serviço, de controle de preços e quando a gente cria as regras infralegais,
+no âmbito da Anatel, nós fiscalizamos o cumprimento dessas regras e sancionamos as empresas
+caso elas não cumpram essas regras. Então todo esse conjunto de competências, de atividades que a Anatel
+tem a possibilidade de fazer, uma vez que é a previsão legal, ela faz isso nas empresas de telecomunicações.
+Nós não regulamos as empresas de redes sociais, as empresas de plataformas sociais, elas não são reguladas
+pela Anatel, uma vez que nos termos do artigo 61, também da Lei Geral de Telecomunicações, elas são
+empresas de serviço de valor adicionado, não se caracterizando como empresas de telecomunicações,
+mas sim como usuários das redes de telecomunicações. Então eu, Carlos Baigorre, deputado Amaranneto,
+somos todos usuários dos serviços de telecomunicações, assim como todas as plataformas também são
+usuários dos serviços de telecomunicações, eles não são prestadores de serviços de telecomunicações.
+Entretanto, da onde que vem, como surgiu essa parceria, essa atuação conjunta da Anatel com a justiça?
+E foi de uma forma até surpreendente para a Anatel, foi durante o último processo eleitoral, em 2022,
+quando nós na agência, eu como presidente da agência, comecei a receber oficiais de justiça,
+trazendo decisões judiciais relativas à retirada de sites e aplicativos do ar.
+Algumas decisões eram para tirar um site inteiro do ar, não vou mencionar os sites, porque alguns deles
+tinham até conotação, digamos assim, vexatória, ou então, mas o que ficou mais emblemático
+foi o caso do Telegram, um aplicativo, uma plataforma de comunicações digitais que não se estava se engajando
+com combate às fake news durante o processo eleitoral, e houve uma decisão judicial para que a Anatel tomasse
+as medidas junto às empresas de telecomunicações para retirar, para impedir o funcionamento dessa aplicação.
+E aí como a Anatel faz isso? Do ponto de vista de estrutura de redes, todas essas aplicações,
+seja o Telegram, seja um site, seja qualquer coisa que roda na internet, eles funcionam por meio de acesso
+às redes de telecomunicações, e considerando que a Anatel tem competência para atuar nas redes de telecomunicações,
+a justiça, algumas decisões da justiça eleitoral, algumas decisões do Supremo Tribunal Federal,
+falavam "Anatel, tem essa decisão, tome as medidas para dar a efetividade dessa decisão".
+E aí nós atuamos junto às operadoras de telecomunicações e informamos empresas de telecomunicações,
+e aí é um trabalho bastante harto porque são mais de 20 mil empresas que hoje têm autorização
+para prestar o serviço de telecomunicações no Brasil. Então nós temos que entrar em contato com 20 mil empresas
+e dizer "empresas, existe uma decisão judicial, vocês têm obrigação de cumpri-la e cumpram a decisão judicial".
+Então é mais ou menos isso, a gente serve como o, digamos assim, o longa-manos da justiça para fazer com a decisão judicial
+de bloqueio de um site, de bloqueio de um aplicativo, seja efetivada.
+E qual foi a nossa surpresa? Quando começaram a chegar, se não me engano, no processo eleitoral, foram 22
+decisões judiciais dessa natureza, 22 que nós conseguimos dar a efetividade.
+E aí o que nos chamou mais atenção foi o volume de decisões que chegaram e nós não estávamos preparados para isso.
+E muitas vezes, e aí eu vou explicar do porquê que a gente teve que fazer um acordo de cooperação com a justiça eleitoral
+denominada aí o sistema 2.0, e agora por quê? Porque a gente estava lá, eu estou lá muitas vezes,
+imagina a situação um pouco surreal como ela era antes. Estava lá na minha sala e de repente chegava
+um oficial de justiça. Aí eu tinha que, ele ficava esperando lá até, às vezes eu não estava lá, às vezes eu estava num despacho
+com outra pessoa, recebia o oficial de justiça, ele me entregava o envelope selado porque é uma decisão
+consurgi-lo de protestante, consigi-lo de judicial, eu tinha que ler e dar encaminhamento a essa decisão.
+Só que muitas vezes essas decisões, elas tinham um comprimento imediato, comprimento em duas horas, ou seja,
+eram decisões que eram urgentes, porque é uma mentira, uma desinformação, uma informação distorcida
+no processo eleitoral, os senhores deputados e deputadas sabem o potencial lesivo que isso pode ter
+para um candidato, o potencial que isso pode trazer de desbalancear, de desequilibrar uma disputa eleitoral.
+Então essas decisões, senhores conhecem a justiça eleitoral melhor do que eu, elas precisam ser cumpridas com urgência.
+E aí depois de passado todo o turbilhão das eleições que tiveram diversas decisões judiciais,
+Anatel, eu procurei a justiça eleitoral e falei "olha, considerando a urgência que é necessário para dar
+a efetividade a essas decisões judiciais que acontecem no âmbito digital, não faz sentido nós utilizarmos
+expedientes analógicos, não faz sentido lá onde quer que seja, no TSE ou no STF, uma decisão judicial
+que está no computador sem pressa, colocada no envelope, o oficial de justiça pegar o carro dele, sair do tribunal
+e ir até o setor de autarquia sul, estacionar o carro, se cadastrar na portaria, subir, esperar e ser recebido,
+entregar para eu pegar a decisão, escaneá-la novamente e colocar no nosso sistema. Não faz sentido isso,
+porque todo esse procedimento vai gastar as duas horas que se perderam.
+Diante disso, a gente procurou a justiça eleitoral para integrar os nossos sistemas eletrônicos.
+Então o que acontece, todas as decisões, todos os processos no âmbito da justiça são feitos em sistemas eletrônicos,
+conforme aqui na Canoes Eputados também. Os processos não tramitam mais em papel. Na Anatel também é assim,
+na justiça também é assim. Só que os sistemas eletrônicos são diferentes. Nós usamos um sistema que é o CEE,
+que eu não sei exatamente qual que eles usam lá, e não sei qual que é utilizado aqui na Canoes Eputados.
+E nós fizemos, no âmbito desse acordo de cooperação técnica, a integração desses sistemas. Para quê?
+Para quando sair a decisão judicial, não precisar imprimir oficial de justiça, integrar, entregar, escanear
+para eu dar andamento. O juiz, quem tomar a decisão, vai apertar um botão, o documento vai ser assinado
+e vai ser encaminhado para a Anatel. Automaticamente ele já chega na Anatel, porque tudo via sistema,
+e automaticamente já vai ter uma equipe dedicada a isso para dar o encaminhamento. Porque como a decisão
+era sigilosa e nominada ao presidente Anatel, eu tinha que receber essa decisão. Então se eu estivesse no dentista
+e fosse demorar duas horas para voltar, por exemplo, o oficial de justiça fica duas horas esperando eu voltar,
+eu não podia entregar para ninguém. Então a ideia é dar mais fluidez ao fluxo dessa decisão. É basicamente isso.
+Essa foi a concepção original do nosso acordo de cooperação técnica. Dar mais fluidez às decisões
+judiciais para que o combate à desinformação, que é tão lesivo para a sociedade como um todo, não só
+como na pandemia do Covid-19, agora na catástrofe ambiental do Rio Grande do Sul, mas especialmente
+nefasta nos processos eleitorais. Então a ideia é dar essa fluidez para que a justiça eleitoral, qualquer
+justiça tome a decisão, chegue até a Anatel e a Anatel já dê cumprimento a essas decisões. Nós já estamos
+interagindo com as operadoras, com as vinte mil operadoras, a gente não interessa com todas as vinte mil
+ao mesmo tempo, elas têm associações. Então nós estamos interagindo com essas associações para também
+eles estarem preparados para isso. Porque se na última decisão, se na última processo eleitoral nós
+teremos em torno de duas dezenas de decisões, nessa certamente teremos muito mais que duas dezenas. Por dois
+motivos. Primeiro, porque a fake news é um problema que me parece que só vai aumentar e segundo, que é uma
+é uma disputa eleitoral muito mais pulverizada uma vez que temos eleições nos cinco mil quinhentos e setenta
+municípios brasileiros. Então a chance de termos mais decisões dessa natureza, a probabilidade de
+ter mais decisões é maior. Então todas as associações já estão sendo mobilizadas, criamos canais de
+comunicação direto com eles para que não haja, para que eles sensibilizem os operadores, os pequenos
+operadores, enfim, todos para que todos estejam cientes de que essas decisões vão chegar e inclusive
+esclarecemos dúvidas tanto dos operadores de como implementar essas decisões, porque tem questões
+técnicas que precisam ser esclarecidas, como também ajudamos agora a justiça eleitoral. E é por
+conta disso que nós estamos participando, a Anatel formalmente participa do Centro Integrado de
+Combate à Desinformação e Defesa da Democracia, o CED, no âmbito do TSE, e nós participamos lá, temos
+o nosso nosso superintendente de fiscalização e a nossa equipe está está participando, fisicamente
+vai estar lá durante o processo eleitoral e isso é importante para que as decisões judiciais sejam
+passíveis de execução, porque o judiciário muitas vezes não conhece como funciona a rede
+de telecomunicações da internet. Então, por exemplo, houve decisões no passado recente que a gente
+não conseguiu cumprir, não decisões do justiça eleitoral, uma decisão de uma justiça de primeira
+instância, onde uma pessoa teve o seu vídeo, um vídeo íntimo disponibilizado numa plataforma de
+conteúdo dos adultos e a justiça determinou que nós tomássemos medidas para retirar do ar aquele
+conteúdo, aquele vídeo. E essa é uma coisa que Nanatel e o setor de telecomunicações não consegue fazer.
+Então, assim, se houver uma decisão judicial para retirar um post do do Facebook ou de qualquer
+plataforma social ou para tirar um grupo de conversas do WhatsApp, nós não temos condições de fazer isso.
+O que nós conseguimos fazer é retirar aquele domínio inteiro do ar. Então, assim, nós não conseguimos
+tirar um post, nós não conseguimos tirar um comentário, nós conseguimos tirar a plataforma
+inteira do ar. Então, o protocolo de atuação funciona mais ou menos assim. A justiça eleitoral entra
+em contato com a plataforma, informa daquele conteúdo para ser retirado, que foi assim com o Telegram.
+A justiça eleitoral estava interagindo com o Telegram para que o Telegram tomasse medidas de combate à
+desinformação. O Telegram não se engajou como todas as diversas outras plataformas se engajaram e aí
+houve uma escalada da atuação do Estado no sentido de falar "Tá, se você não vai se engajar, então
+vou utilizar o poder de polícia, o poder de enforcement da Anatel junto às empresas de
+telecomunicações para retirar a aplicação inteira do ar". A partir desse momento, o Telegram
+"Não, não, não, eu vou, eu vou, para aí eu vou colaborar". Então, esse é mais ou menos o protocolo
+de atuação para garantir que não haja, digamos assim, desinformação, fake news e disseminação de
+informações falsas no processo eleitoral. Então, a Anatel, só para esclarecer, a Anatel não atua
+de forma proativa nesse processo, a Anatel não tem os atividades da Anatel navegando pela internet e
+procurando conteúdos para tirar do ar, a gente não faz isso, nós atuamos de forma reativa quando o
+judiciário, assim, nos demanda. É importante destacar que a gente tem um acordo de cooperação, um
+termo junto com a Universidade Federal do Goiás, que está desenvolvendo um sistema para esse sim
+poder monitorar, utilizando inteligência artificial para poder monitorar e identificar, mas isso é o que
+nós estamos fazendo de forma, digamos assim, em termos de pesquisa acadêmica para ver se é possível fazer isso
+e eventualmente doar para quem quer que seja, mas também é importante destacar que com base nessa
+experiência da Anatel no que diz respeito ao combate de fake news no processo eleitoral, a Anatel tem
+se posicionado institucionalmente junto aqui ao Congresso Nacional, na Comissão de Comunicação Social,
+na Comissão de Ciências e Tecnologia, junto no debate do PL 2630 com o relator Orlando Silva,
+entendendo que nós somos a instituição do Estado brasileiro que por ter essas competências, por ter
+essa estrutura, essa expertise, esse conhecimento é a mais adequada, por ser uma instituição do Estado
+brasileiro, nós fomos criados no governo Fernando Henrique, somos uma instituição que atuamos no
+governo Lula, governo Dilma, governo Bolsonaro, governo Lula de novo e nós somos uma instituição do
+Estado brasileiro, eu sou servidor de carreira da Anatel, praticamente todos os superintendentes são
+servidores de carreira da Anatel, nós entendemos que nós reunimos as condições para ser uma agência
+responsável pela regulação não só do mercado de telecomunicações, mas do ambiente digital como um
+todo, então é basicamente isso que eu tinha a dizer, acho que eu gastei 25 minutos só.
+Obrigado presidente, obrigado pela exposição, eu gostaria de pedir aos colegas parlamentares que
+desejam fazer algum tipo de pergunta, que possam através do Infoleg, eu já vi que já temos a presidente
+da nossa comissão de Ciência e Tecnologia, Nelly Aquino, também temos o Silas Câmara que nos faz
+presente, já fazendo um pedido também, eu gostaria de antes da gente passar para as perguntas fazer
+alguns questionamentos, mas deixar claro também o seguinte presidente, o que será feito é uma modernização
+do que já existe, pelo que eu consegui entender, do que já existe nos processos eleitorais, a decisão
+que era papel que tinha toda a questão analógica será agora mais ágil e além de ser mais ágil, eu gostaria
+de entender em quanto tempo esse poder de polícia será exercido, assim a partir do momento da decisão
+chegou com a equipe em quanto tempo a Anatel vai ter esse exercício de polícia.
+Obrigado deputado, como essa decisão, uma ordem de bloqueio de assate precisa ser implementada por cada
+uma das empresas de telecomunicações, isso depende muito da capacidade de cada uma das empresas de implementar.
+Então grandes empresas, como que atuam as grandes empresas do mercado de telecomunicações, elas conseguem
+implementar isso de uma forma mais rápida, porque tem equipes mais estruturadas, estão mais dedicadas
+para isso, e é como se fosse uma teoria da cauda longa, as maiores empresas conseguem fazer isso em questões
+de horas, uma, duas, três horas, e aí a gente vai chegando até as pequenas empresas que estão lá no interior
+que muitas vezes o dono da empresa é o engenheiro da empresa que atende dois, três bairros, esse cara
+pode demorar assim, dez horas, um dia talvez para implementar, mas o grosso, que é a maior parte dos
+usuários, vai conseguir implementar isso mais rapidamente. O que nós temos dialogado com as empresas
+é justamente buscando uma forma de automatizar isso, porque o que acontece, existem algumas questões
+que precisam ser, que a gente já está nos dialogando junto com o TSE e junto com as operadoras, como
+melhorar, eu vou colocar aqui alguns pontos. Se você tem um site que foi bloqueado por uma decisão
+judicial, e um cidadão qualquer de uma operadora tenta entrar nesse site, vai aparecer aquela mensagem
+como se fosse um erro, e aí muitas vezes o cidadão vê aquela mensagem de erro e acha que o problema é
+na operadora, ele vai lá e liga para a operadora, e fala "ó operadora, estou com um problema na minha
+internet", e aí ele não sabe que aquilo foi bloqueado, então uma coisa que a gente está discutindo
+e vê como ele faz, é que quando acontecer isso, aparece uma mensagem, site bloqueado por decisão
+judicial, número tal, qual e tal, porque se não isso reflete num custo para a operadora, porque o
+cidadão vai ligar no qual centro da operadora, vai ter que atender, vai ter que explicar, muitas vezes
+como a decisão é que tem um sigilo, ele não pode dizer porque que foi, qual é o número do processo,
+então assim, existem pontos de melhoria a serem feitos, esse é um ponto como eles. E outra coisa é
+tentar automatizar, porque assim, do ponto de vista técnico, o que acontece é que você tem um
+equipamento, que é um servidor chamado DNS, que ele, que a gente pode de alguma forma, de forma
+centralizada, já submeter os DNS, os equipamentos dessas servidores, dos diversos, das diversas
+operadoras, e isso meio que ser mais automatizado, mais centralizado, porque do jeito que é feito
+hoje, cada um tem que implementar o bloqueio. Nós estamos estudando em conjunto com eles, com os
+operadores e com o tribunal, uma forma de fazer isso de uma forma mais centralizada, porque aí o
+tempo de resposta é mais rápido, você poderia fazer isso em poucas horas, e não, e nem, quando a
+gente está falando de 20 mil operadores, você pode ter um pequeno operador que está lá, que não
+confia, num bairro, que a gente não consegue nem avaliar se ele fez o bloqueio. Então, assim,
+existem pontos de melhoria, o grosso, a grande maioria dos usuários vão ter o acesso bloqueado
+esses sites muito rapidamente, mas existe um contingente grande aí que vai demorar um pouco mais.
+Duas perguntas em uma, para depois a gente passar para os colegas que se inscreveram.
+O sistema pode ser ampliado para o dia a dia da população brasileira, como nós relatamos até na nossa
+fala inicial, fake news do Rio Grande do Sul, ou até mesmo outro tipo de decisão noticial, quanto a algum
+conteúdo que é notícia falsa. E outro detalhe, TSE, Justiça e Anatel já se preparam por uma
+possível narrativa de censura a partir do momento em que existe essa condição da Anatel
+automaticamente tirar do ar o conteúdo através das 20 mil empresas de telecomunicações?
+Sobre a possibilidade, primeiro, de ampliação. É possível ampliar, o que a gente consegue é tornar o sistema
+mais efetivo. Agora, ampliar, deputado, para, por exemplo, você está lá numa rede social qualquer e
+aparece uma pessoa dizendo uma mentira, uma desinformação, uma fake news sobre a situação no Rio Grande do Sul.
+O sistema, do jeito que ele está hoje, ou seja, por meio das redes de telecomunicações, não é possível
+retirar aquele comentário, aquela postagem do ar. A gente não consegue fazer isso, a gente consegue
+tirar o site inteiro. O único que tem domínio para retirar aquela postagem do ar é a própria plataforma.
+Então, assim, para que isso seja viável, para que você tenha um procedimento mais rápido de retiragem
+de postagens, aí você precisaria alterar o marco legal para que nós pudéssemos exigir, da mesma forma
+que nós temos esse poder sobre as empresas de telecomunicações, que nós pudéssemos ter esse poder
+sobre as plataformas de redes sociais. Para falar de plataformas de redes sociais, tire essa postagem do
+ar, porque tem uma decisão judicial, por enfim, tire essa postagem do ar. E aí, não tirando essa postagem
+do ar, aí, por meio das redes de telecomunicações, tirar a plataforma toda do ar, como se fosse uma escala
+de enforcement. Então, assim, hoje, com a estrutura legal que nós temos e do jeito que as redes estão
+da estrutura legal, nós não teríamos condições de ampliar esse sistema para a retirada de postagens
+específicas. Agora, para retirar sites inteiros do ar, a gente consegue. Eu dei esse exemplo de recentemente,
+a gente não conseguiu cumprir uma decisão judicial, a gente teve que devolver para a juíza e falar, olha, não tem
+como... Essa decisão é incumprível, que mandava bloquear um vídeo numa plataforma de vídeos. Isso a gente não
+consegue fazer. A gente falou, eu consigo tirar a plataforma inteira, mas tirar o vídeo só a gente não tem
+como. E a narrativa de censura? A narrativa de censura, sim. Um dos principais motivos com que eu fiquei
+muito à felicidade de vir aqui participar dessa audiência e prestar esclarecimentos à Câmara dos Deputados,
+aos nobres congressistas e à população como todos, é justamente para esclarecer, para combater essa
+narrativa de que é censura. Porque muitas vezes quando a gente coloca a expressão, eu falo isso para
+os meus familiares, poder de polícia, eu acho que tem gente da Anatel com distintivo andando na internet
+procurando para tirar sites do ar, e não é isso que a gente faz. O nosso poder de polícia é juntas
+as empresas de telecomunicações e nós falamos tirem o conteúdo do ar, porque há uma decisão
+judicial nesse sentido. Tirem esse site do ar, tirem esse aplicativo do ar, e incumprimentam uma
+decisão judicial. Mas essa questão da narrativa, deputado Amarneto, o senhor sabe melhor do que eu,
+que é algo muito difícil de combater. E inclusive sempre que a Anatel tem se manifestado sobre isso,
+nós somos atacados por hackers, por criminosos do ambiente virtual que querem que esse tipo de
+baderna nas redes sociais, onde o anonimato é utilizado para cometimento de crimes de toda a natureza,
+continue. A Anatel tem se manifestado publicamente no sentido de entender que isso precisa ser
+repensado, acho que a sociedade brasileira e a Câmara dos Deputados aqui, melhor do que ninguém que
+representa o povo brasileiro, pode liderar esse debate de repensar qual que é a soberania digital
+do Estado brasileiro. Porque hoje praticamente não, se o Estado brasileiro não consegue fazer valer
+suas decisões no ambiente digital, a conclusão lógica disso é que não existe soberania do Estado
+brasileiro no ambiente digital. Eu acho que essa é uma reflexão que nós precisamos fazer.
+Obrigado, presidente. Abro agora a palavra para os colegas parlamentares e a deputada
+presidente da Comissão de Ciências e Tecnologia, Anelinha Aquino,
+quer fazer um questionamento ao presidente Baigorre.
+Primeiro eu quero agradecer ao Amaro por ter aprovado esse requerimento e para a gente debater esse
+assunto tão importante e agradecer ao Carlos por estar aqui para trazer esses esclarecimentos.
+Nós que fazemos parte da vida pública, nós já sofremos com as fake news, eu não acredito que
+tenha nenhum parlamentar que não passou por isso, mas a mulher é um pouco mais complicado.
+A política antiga, quando as mulheres entravam, a gente tem algumas históricas em Minas Gerais,
+eles atacavam as mulheres com pinturas no muro, pichação e geralmente o ataque para fazer a mulher
+recuar é contra a honra e contra a família. Então são ataques que trazem um desgaste muito grande,
+mas quando a gente avalia, no período eleitoral existe uma celeridade, porque todo mundo sabe que
+é tudo muito rápido, mas a gente vê a questão das fake news, no período da pandemia, agora mesmo
+estamos tendo muita fake news com relação ao Rio Grande do Sul, mas nós temos muita gente morrendo
+por causa de fake news. Nós tivemos um caso de suicídio da Jéssica Vitória de 22 anos, de Araguari,
+Minas Gerais, e ela suicidou depois da página "Choquei divulgar uma suposta relação amorosa".
+Eu queria entender se nós temos algum mecanismo eficaz para esses casos ser um pouco mais rápido
+e evitar perdas. A gente vem perdendo, em Minas, nós perdemos alguns jovens adolescentes, 12, 14,
+que suicidam por causa de fake news. Ataques na escola, montagem de fake news, isso é uma coisa que
+me assusta muito como mulher, como mãe, e teríamos que encontrar um mecanismo de proteção, ou de
+acelerar para que isso seja tirado o mais rápido possível e evitar que esses jovens tirem a própria
+vida. Existe algum mecanismo que a gente consiga fazer com que seja tão célebre como é a questão
+do período eleitoral para esse tipo de situação? Deputado Anelie, obrigado, presidente, pela questão.
+Olha, hoje essa é uma questão que, tirar um conteúdo que difama, que é o cyberbullying, ou um conteúdo
+que pratica violência política de gênero, ou racismo, ou misoginia, hoje, do jeito que a estrutura
+da legislação está posta, não. Quem se sentir impactado por isso precisa procurar a justiça,
+justiça civil, apresentar uma denúncia e recorrer e tudo mais. E eu vejo, tanto que hoje nós temos dois
+processos no âmbito do Supremo Tribunal Federal que, geralmente, surgiram a partir dessa discussão,
+surgiram, que foram subindo até chegar ao Supremo, e eu vejo que, assim, isso acontece, esse problema que a
+senhora colocou de forma tão precisa, ele existe, na minha visão, por dois elementos que se somam e
+criam um ambiente para essa baderna nas redes e para esse ambiente de faroeste digital. O primeiro é,
+que é inclusive o que está sendo discutido no STF, que é a constitucionalidade do artigo 19 do
+Marco Civil da Internet, que é o que afasta a responsabilidade das plataformas sociais pelos
+conteúdos que nelas são divulgados. Então, as plataformas, e o deputado Amaro Neto, o deputado Davi
+colocou muito isso, também o Silas Câmara, deputado Silas Câmara, quando a gente vê que hoje as mídias
+sociais elas são substitutos das mídias tradicionais. E enquanto as mídias tradicionais se
+submetem a regras de responsabilidade editorial, elas são responsáveis por aquilo que o coloca, se uma
+grande emissora fizer uma reportagem sobre a senhora e a senhora entender que aquilo não era correto, a
+senhora pode buscar a justiça e tem direito à reparação e eles têm obrigações, eles têm
+responsabilidade. Esse tipo de responsabilidade não existe no ambiente digital. Então, o artigo 19
+criou um regime de completa falta de responsabilidade das plataformas, de tal forma que, por não ter
+responsabilidade nenhuma sobre o que é colocado nas mídias sociais, nas plataformas sociais, ou nas
+plataformas de comércio eletrônico, qualquer coisa que seja, não tem nenhum incentivo a tomar medidas
+de proteção, de controle ou de dever de cuidado. Então, essa simetria legal, essa simetria regulatória,
+na minha visão, é o primeiro alimento que propicia que qualquer coisa possa ser colocada na internet,
+nas redes sociais, independentemente de agredir a honra, agredir a família, a integridade ou até a
+própria vida de terceiros. E o segundo elemento que, na minha visão, alimenta esse ambiente é que o
+anonimato é a regra nesse ambiente digital. Então, se tiver, nesse caso que a senhora mencionou do
+Choquei, o Choquei é alguém que você pode ir atrás e encontrar e a família dessa jovem que
+lamentavelmente retirou a própria vida pode buscar na justiça uma indenização, uma reparação. Mas se
+for um perfil de uma pessoa anônima qualquer, você não tem nem como ir atrás, você não sabe nem a quem
+você vai atrás. E se você buscar a plataforma, provavelmente essa pessoa fez isso com um site,
+fez um email fake, criou uma conta fake só para difamar os outros. Então, é impossível você
+rastrear quem foi essa pessoa e buscar qualquer tipo de punição, ressarcimento, indenização.
+Então, esses dois elementos fazem com que, são gasolina no fogo dessa baderna digital desse ambiente
+completamente caótico que nós temos hoje. Há alguns anos atrás, uma situação semelhante a gente tinha nas redes
+de telecomunicações. Não na questão da responsabilização, mas na questão do anonimato. Quando não existia
+nenhum regramento sobre cadastramento de usuários pré-pago. Tem uma lei de 2013 aqui da Câmara dos Deputados
+que obrigou as empresas, obrigou a Anatel a atuar junto com as operadoras aplicando nos
+noções para agora eles terem o cadastro do seu pré-pago. Porque antes cada um pegava um chip pré-pago,
+comprava na rodoviária aqui de Brasília, colocava no celular e saía cometendo crimes com aquele número.
+A polícia identificava o número, eu ia atrás e não tinha, não tinha o dono da linha, simplesmente não tinha.
+E aí vem uma lei, uma lei do Congresso Nacional, o senador Ângelo Coronel sempre que encontra com ele
+ele fica me cobrando como é que tá esse negócio, porque foi um processo longo de implementação
+e hoje grande parte do cadastro, grande parte dos números pré-pagos tem um CPF e uma pessoa associada a ele.
+Hoje se você comprar uma linha pré-paga, um chip pré-pago e querer habilitar, ele te pergunta o CPF,
+se você colocar o CPF inválido ele não aceita, se você colocar um CPF e se você pegar o CPF do deputado
+da mara na internet e colocar, ele te faz um quiz de perguntas, qual o nome da sua mãe, onde você nasceu,
+para validar a sua identidade. Então eu entendo que isso é uma coisa que poderia ser pensada,
+como garantir a identificação dos usuários das redes sociais para que se alguém aparecer e começar
+a difamar a senhora ou falar algo que não seja fecunil, simplesmente uma opinião, mas que atenta contra a sua honra
+e a senhora entenda que atenta contra a sua honra, a senhora possa buscar os meios legais, porque hoje
+sem nenhum tipo de responsabilização das plataformas e sem nenhum tipo de identificação dos usuários,
+isso é o ambiente perfeito para essa criminalidade digital.
+Vamos aos nossos outros colegas parlamentares que desejam fazer algumas perguntas, agora o presidente
+da Comissão de Comunicação, deputado Silas Câmara se faz presente na nossa audiência e vai questionar o presidente Baigor.
+Bem, primeiro eu cumprimentar a todos por essa iniciativa, feliz dessa audiência pública,
+acho que nada mais apropriado do que nós debatermos esse assunto tão importante,
+parabenizar ao Amaro e na pessoa do deputado Amaro Neto, todos os coautores de requerimento,
+vi aqui que tem bastante pessoas, bastante deputados, deputadas que também são coautores do requerimento,
+na verdade, saudar aqui a presença do Baigor e eu queria na verdade mesmo fazer só um comentário,
+porque a verdade é que todas as perguntas que nós fizermos a respeito desse assunto,
+a gente vai esbarrar na falta de legislação adequada e de regra adequada para esse mundo digital
+que está aí completamente solto fazendo o que quer, como quer e acho até sinceramente absurdo,
+me assusta muito que, independente de ser pessoas de direita ou de esquerda, mais a direita ou mais à esquerda,
+as pessoas resistam que a gente tenha uma legislação que dê essa garantia à população brasileira,
+tanto do conhecimento de quem faz a informação ser publicada, seja ela fake ou não,
+mas também fomentar essa falta de regra e aproveita-se inclusive essas faltas de regra que existem
+para estar constantemente confrontando o Supremo Tribunal Federal, que nada mais, nada menos é do que
+um poder que só funciona provocado por alguém.
+Isso só é provocado porque nós não temos nenhuma regra que hoje nos dê garantia de que o sistema funcione
+com o mínimo de critério e segurança que a população possa ter nessa área tão estratégica
+e cada vez mais, vamos dizer assim, mais utilizada, tem-se a segurança de que a gente pode confrontar
+quem precisa ser confrontado e conhecer quem está por trás das informações, como disse muito bem,
+ainda agora, o nosso presidente Danateo.
+Portanto, eu queria aqui enfatizar que lá na Comissão de Comunicação nós formamos um grupo especial,
+presidente Amaro, e nesse grupo nós estamos fazendo um trabalho ainda de bastidor muito importante,
+que é junto com a Anatel, com a própria Casa, que ultrapassa os limites e as fronteiras da Comissão de Comunicação,
+porque o nosso objetivo é levantar de fato tudo que existe de legislação tramitando.
+Nos achusta muito que o presidente da Casa tenha anunciado um grupo especial, por exemplo,
+para tratar desse tema baseado na impossibilidade, inviabilidade, inclusive pela operação de fake news
+nas redes sociais do 26/30, e que até hoje os partidos, por exemplo, não tenham indicado os seus membros.
+E se queixa o presidente de que esse é o principal motivo dessa comissão especial, desse grupo de trabalho,
+pelo menos não ter sido implantado ainda.
+Portanto, parabenizando a Anatel, eu mesmo, nós lá do República Anos, o nosso principal ponto de confronto
+com o relator até então do 26/30, a vez que estava praticamente habilitado para votação de plenário,
+foi justamente a ausência da Anatel no sistema. Parabenizando a Anatel, porque acho que a Anatel hoje
+é uma agência que tem uma capacidade técnica de profissionais de altíssimo nível, tecnologia de ponta
+de várias inovações apresentadas para o Brasil que ajuda a população a se proteger, mas dizer que
+todas as perguntas que eu poderia fazer aqui, eu sei que no final elas vão empancar em alguma coisa
+que seja falta de legislação clara e de leis que dê, de fato, para quem fiscaliza a capacidade de punir
+de ir atrás, de, enfim, de exercer, inclusive a justiça, com a capacidade de zonomia que nós parlamentares
+queremos, mas não oferecemos uma lei para que a justiça possa fazer isso com competência. Portanto,
+parabenizando a iniciativa da audiência pública, quero deixar aqui o meu reconhecimento pelo trabalho
+e a capacidade que a Anatel tem e também a Comissão de Ciência e Tecnologia, que nada é do que,
+nada mais é do que uma irmã gêmea da Comissão de Comunicação, que precisam caminhar juntas de mãos dadas
+desses temas que envolvem esse momento desafiador do planeta, que é o uso das mídias sociais e da conectividade
+como ferramenta de comunicação poderosa, que também é outro desafio para esse momento que a gente está vivendo,
+que é como a gente concilia essa questão das mídias sociais de forma que elas não acabem, não atropelem,
+não destruam o sistema de radifusão do Brasil, que é tão afetado e que é tão exigido naquilo que eles recolhem
+como impostos para poder, por exemplo, funcionar e as mídias sociais estão aí soltas, sem absolutamente
+nenhum tipo de renumeração, nenhuma regra, prejudicando na minha avaliação nesse momento, por falta de legislação adequada,
+o sistema de comunicação seja ele em qualquer variável no Brasil.
+Presidente Silas, é importante a tua fala, a fala de vossa excelência, porque nós na Comissão de Ciência e Tecnologia
+aprovamos na semana passada um grupo de trabalho para falar de inteligência artificial.
+E depois, na nossa Comissão de Comunicação, a vice-presidente Dani Cunha propôs que a gente pudesse integrar o trabalho.
+Acho que nada melhor de uma integração de ciência, tecnologia e comunicação para esse tema também, que é pertinente,
+já que nós estamos falando de fake news e inteligência artificial acaba com deep fake entrando também nesse tema.
+Algum comentário, Presidente Baicorre?
+Só reiterar essa manifestação que o presidente Silas Câmara colocou de como esse setor digital é cada vez mais estratégico para o Brasil.
+Estratégico para a economia, estratégico para a sociedade, para o debate público.
+E o que eu coloquei aqui antes, deputado Silas, era que, recentemente falei sobre isso, de que essa essencialidade cada vez maior do ambiente digital
+ele acaba trazendo a necessidade de uma reflexão sobre o papel do Estado brasileiro nesse contexto.
+Porque a internet foi concebida em um contexto, em uma visão extremamente libertária, onde os Estados nacionais,
+não só o Estado brasileiro, mas todos os Estados, não teriam qualquer atuação.
+Então, foi concebido, e se pensávamos como era a internet no começo, no começo dos anos 90,
+era um negócio completamente fora do alcance do Estado brasileiro.
+Então, o que acontecia na internet era como se não acontecesse nesse mundo, acontecesse num mundo à parte, e os Estados não têm nada a ver com isso.
+E essa visão que surgiu lá no Vale do Silício, na Califórnia, da origem acadêmica, de uma comunidade científica,
+surgiu no ambiente científico, tinha essa visão de algo puro, de um mundo onde as pessoas estavam todas de boa fé,
+dialogando, que é o que a gente chama da Web 1.0, do começo da internet, onde cada um podia fazer o seu próprio site,
+onde cada um podia criar sua startup, onde o mercado era completamente livre, qualquer um podia abrir a sua garagem,
+seu próximo Google, o próximo Microsoft, o próximo Facebook, e isso mudou de uns anos pra cá.
+Hoje o que a gente vê é que o ambiente na internet não é mais um ambiente fragmentado, onde cada um pode falar o que quiser,
+é um ambiente onde grandes conglomerados, multibilionários, multinacionais, controlam praticamente todo o ecossistema.
+E essa reflexão precisa ser feita porque nós ainda temos um arcabouço, uma governança, um arcabouço legal,
+uma governança desse ambiente na concepção original, onde não tinha interesse econômico, onde todos estavam na internet,
+não tinha interesse de ajudar uns aos outros, de compartilhar informação, onde não se tinha negócios, onde não tinha interesses comerciais e econômicos.
+E isso mudou completamente. Então, assim, o próprio posicionamento do Estado brasileiro e dos Estados nacionais precisa ser repensado.
+Essa é uma reflexão que eu coloco. Então, por exemplo, hoje, não sei o quanto os senhores sabem, existe algo que se chama o Comitê Gestor da Internet,
+que é um comitê que tem multirrepresentação, então tem sociedade civil, tem empresas, tem usuários e tem o governo.
+Não tem a Câmara dos Deputados, não tem o Senado Federal, como tem o Conselho Consultivo da Anatel, mas tem uma multirrepresentação lá.
+Mas o Estado brasileiro não é maioria nesse comitê, então o Estado brasileiro sequer tem maioria de votos no comitê que ele próprio criou para gerir a internet.
+Essa é uma questão que eu acho que precisa ser refletida. Outra coisa, o decreto que criou o Comitê Gestor da Internet, ele prevê uma atribuição,
+que é atribuição de domínios e números IP. O que isso quer dizer? Só para ficar fácil.
+Quando eu quero fazer um site, quero fazer um site, carlosbaigorre.com.br, não existe.
+Então, mas, assim, se eu quisesse fazer um site carlosbaigorre.com.br, eu registro esse domínio junto a uma instituição privada chamada nick.br
+e pago, acho que é R$ 40,00 por mês, para essa instituição privada.
+O decreto que cria, ele diz que esse serviço, essa prestação de serviço, ela pode ser feita por um ente privado sem fins lucrativos
+ou por um órgão público, ou pelo ente do Estado. E houve uma decisão de fazer por uma associação sem fins lucrativos.
+Então, acho que todas essas decisões que foram tomadas, elas precisam ser repensadas a partir do momento que esse sistema se torna cada vez mais estratégico para a soberania nacional.
+Foi o que eu falei recentemente. Se o Estado brasileiro não tem algum tipo de ingerência de domínio num ambiente digital,
+a conclusão lógica disso, eu não estou dizendo se é certo ou se é errado, é que o Estado brasileiro não tem soberania no ambiente digital.
+Se isso é algo que queremos que seja assim, não tem problema, é uma decisão. Vamos ter soberania e a vida é assim.
+Mas nós precisamos entender os custos dessa decisão. Então, os custos dessa decisão é que nós não temos, como não temos hoje, nenhum controle.
+Os problemas que a presidente ali colocou, hoje estão completamente insolúveis do ponto de vista do Estado,
+porque se deliberou de que o Estado não teria nenhum tipo de ingerência no ambiente digital.
+E agora nós estamos vendo os custos dessa decisão. Outros países não tomaram essas decisões.
+Então, sim, cada país tomou decisões diferentes ao longo dos anos. E eu acho que é o momento da gente fazer essa reflexão.
+Porque esse problema de fake news, esse problema de violência política de gênero, de misoginia, de irracismo no ambiente digital,
+ele não vai diminuir, ele não vai desaparecer, ele vai crescer. E nós precisamos pensar em como lidar com essa situação.
+Com a palavra agora, o vice-presidente da Comissão de Ciência e Tecnologia, deputado Gilson Daniel.
+Senhor presidente Amaro Neto, parabenizar pela audiência pública tão importante para essa casa, a discussão da fake news.
+Agradecer a presença do presidente Danatel Carlos, todos os parlamentares.
+É um tema que essa casa não pode virar esse ano sem criar uma regra.
+Nós temos, como parlamentares, sofrido muito ataque.
+Ontem mesmo, no Plenário, uma deputada, deputada Sovieta de Goiás, foi atacada, dizendo que ela votou favorável a um projeto que sequer foi votado.
+Foi atacada até pelo um colega parlamentar. E não adianta tirar da internet em seguida, porque a pessoa já printou, já foi para o WhatsApp, já disparou, e aí não tem volta.
+Nós temos um outro caso aqui, deputada delegada de ONU, de Minas Gerais, que é atacada todos os dias, mas todos os dias. E ela não consegue se livrar disso, porque ela procura a justiça, mas a justiça é amorosa.
+Depois que a pessoa fez a postagem no fake news, que a pessoa não tem nem a coragem de se identificar, de colocar a cara, ela não consegue mais ter uma resposta nessa casa.
+Esse tema, esse debate de hoje, Amaro, você está de parabéns por trazer esse tema aqui para a Comissão de Ciência e Tecnologia,
+de trazer o presidente Anathel para mostrar para nós o trabalho que a Anathel já está fazendo como agência, mas aquilo que a gente pode avançar.
+A gente não pode deixar mais essa questão da tecnologia, da internet sem regra. Essa casa precisa construir um projeto.
+O consenso será difícil, porque você hoje, infelizmente, você tem uma divisão dentro do plenário, onde um chama de fake news, outro chama de censura, mas nós precisamos criar uma regra.
+A partir daí, aprimoramento vai ser com a execução. O deputado Silas Câmara, que hoje preside uma Comissão importante, Comunicação, que foi presidida pelo deputado Amaro Neto,
+tem já um trabalho também, uma subcomissão criada, que é a que foi falado, mas eu acho que a casa precisa avançar.
+O presidente Lira precisa, com essa Comissão criada, construir um projeto que seja um consenso.
+Nós não podemos deixar que um país como o Brasil, com a internet, hoje, você vê que nós vamos participar num processo eleitoral agora,
+nós temos uma eleição pela frente, e na eleição a gente é muito mais atacado, mesmo não sendo candidato.
+Os nossos colegas, companheiros, são atacados o tempo todo. E para você tirar uma postagem, hoje, você tem que entrar na justiça,
+tem que fazer todo um procedimento que o tempo demora tanto, que depois até perde a funcionalidade.
+Então, eu acho que a gente precisa avançar nessa pauta e esse debate é de uma importância muito grande. Parabéns, Amaro, pela proposição.
+E é uma pauta que nós vamos estar juntos aqui para debater, para discutir e para votar. Obrigado.
+Obrigado, presidente Gilson. Viz-presidente Gilson, que é relator da Comissão Especial sobre Prevenção de Auxílio de Desastres e Calamidades Naturais.
+Eu acredito que a sua Comissão Especial, Gilson, poderia também, em algum momento, levar a Natel para falar sobre o sistema que está sendo desenvolvido
+para a gente prevenir desastres naturais no nosso país. Eu já aproveito e já tento aqui já articular esse debate lá na Comissão Especial.
+Algum comentário, presidente? Posso acrescentar, Amaro? Então, já vou pegar sua sugestão aqui. Nós vamos ter uma audiência pública para discutir o CELB Broadcast,
+que é o sistema de alerta que o governo federal está criando. Nós vamos inserir nessa audiência pública o convite.
+Eu vou pedir para inserir o convite à Natel, até porque o desastre do Rio Grande do Sul, nós vimos agora a quantidade de fake news,
+como atrapalhou os governos, a resposta, principalmente as pessoas que estavam indo para o Rio Grande do Sul para poder atuar como voluntários,
+a dificuldade que teve porque às vezes as pessoas fazem a análise daquilo que está acontecendo pela rede social, muita mentira,
+muita coisa colocada na rede social que prejudicou diretamente o povo do Rio Grande do Sul e principalmente os governos que estavam atuando naquela catástrofe.
+Com certeza, Amaro, que agradeço pela sugestão e vamos aderir sim na comissão. Obrigado.
+Obrigado, deputado Justo, por me colocar à disposição. Com certeza, assim que fomos convocados, estaremos lá,
+tanto para falar da questão do sistema CELB Broadcast quanto da questão do combate à fake news. Pode contar conosco.
+Agora com a palavra o deputado David Soares.
+Senhor Presidente, primeiro eu venho parabenizar pela propositura da ação de trazer aqui o nosso querido Presidente Baigorra,
+que ainda cumprimenta o meu amigo, e cumprimentar todos da mesa e principalmente daqui da comissão.
+Presidente Baigorra, primeiramente parabéns pelo trabalho de excelência que a Anatel está fazendo, mas eu tenho dois questionamentos que parem sobre a seguinte premissa.
+Eu creio que vocês têm habilidade para cuidar da questão digital, e esse assunto da fake news aí é um assunto sério,
+em que nós deparamos para um lado com o princípio de que todas as pessoas devem ter liberdade de expor o seu pensamento.
+Isso faz parte da democracia. Eu posso falar que eu não gosto de você, ou que eu gosto, que eu não gosto do Lula, que eu apoio o Lula, eu posso ter essa liberdade.
+Mas a partir do momento que eu falo, por exemplo, voltando ao caso do Lula, que ele é um ladrão, e eu nunca fiz essa afirmação,
+embora há processos judiciais que foram anulados, que foram feitos aí, com N.C.U.
+Eu tenho no meu modo de ver que tem uma responsabilidade. Eu estou falando que ele é um ladrão, porque eu vi processos disso, eu sei de provas daquilo,
+portanto eu faço essa afirmação. Eu creio que seria o modo mais justo para uma pessoa se ponderar na internet, dela ter liberdade para falar,
+mas ela tem que dar, vamos dizer, embasamento, ela tem que trazer lastro para o que ela está falando, sob pena de que você fala, você some,
+ofende a pessoa, e todos nós aqui já fomos vítimas de fake news.
+Aí vem a minha pergunta. A Anatel, você falou do Conselho Gestor da Anatel, é suficiente para a gente num país com condições continentais,
+para a gente se deparar com o volume de denúncias que vai ter? A Anatel precisa ser melhorada, precisa ser criada novas estruturas digitais,
+precisa se aumentar o quadro? Verdadeiramente, o que que hoje temos e o que nós temos está preparado para enfrentar esse problema tão sério?
+E a outra vou agora até fazendo jus a isso. Se eu tenho condição, por que não se implementa? E de uma forma subsidiária, já que o Congresso ainda não chegou
+a uma temática para definir o que é fake news, o 2630CV, que é um PL que já está enterrado por si só, mas todos nós queremos deliberar
+sem afetar a liberdade de expressão. Eu pergunto, a Anatel pode, de forma subsidiária, criar, vamos dizer assim, regulamentos para um bom uso na internet?
+Por exemplo, para mim acessar e fazer comentário em qualquer perfil, eu poderia entrar com GOVBR? Porque eu já frago a minha identificação.
+Vem uma sugestão ou outra de uma forma que eu comento, mas o David que está comentando, entrou lá com o CPF dele lá, e eu sou responsável por aquilo ali.
+Queria colocar essas questões, até mesmo para a gente tentar criar um ambiente de paz, não de paz, vamos dizer, um elemento mais pacífico, mais justo na internet, presidente de Baigorre.
+Obrigado deputado David. Tentar responder as duas perguntas numa tacada só. De novo, reiterando aqui algo que eu coloquei, eu creio e a sua fala vai nesse sentido,
+que assim, sem dúvida nenhuma, é livre a manifestação do pensamento. A Constituição nossa fala isso, é livre a manifestação do pensamento.
+O artigo quarto do, não, inciso quarto do artigo quinto da Constituição. Mas esse mesmo inciso fala, é livre a manifestação do pensamento, mas é vedado o anonimato.
+Então o grande problema hoje, na minha visão, de um dos problemas, são dois. Conforme a falta de responsabilização das plataformas pelo que é colocado nelas,
+ou seja, não tem responsabilidade nenhuma, então se chega alguém e começa a difamar o senhor ou qualquer outra excelência aqui, fica por isso mesmo, a plataforma não tem responsabilidade nenhuma,
+e quem quiser buscar algum tipo de denização, não tem a quem achar, porque é anônimo.
+Então eu entendo que essas duas coisas, agora, do jeito que as coisas estão hoje, do jeito com esse arcabouço de regras, mesmo se chegassemos lá no Conselho Consultivo da Anatel,
+onde o senhor foi conselheiro, representando aqui a Câmara dos Deputados, com muita altivez, de repente Anatel, por meio do seu Conselho Consultivo,
+ou por qualquer outra estrutura, tiver que analisar conteúdos específicos para ver se eles se caracterizam como fake news, como misoginia, como violência de gênero, qualquer coisa desse tipo,
+ou racismo, vai ser um volume sem tamanho de coisa para analisar. É humanamente impossível fazer isso.
+Então, minha visão, primeiro você tem que estancar, criar o ambiente para que se reduza esse volume de conteúdo.
+E a primeira forma é cumprir a Constituição, vedar o anonimato, fazer com que as pessoas precisem se identificar para dizer "tudo bem, você quer se manifestar e falar o que acha do deputado Davi, tudo bem, é livre o pensamento, você pode falar,
+mas se você difamar, se você caluniar, você pode ser responsabilizado, pode, provavelmente será responsabilizado.
+Agora, se você tem certeza que você pode falar qualquer coisa e não será responsabilizado, que é essa visão libertária que eu falei da internet,
+você entra e faz o que você quiser lá e ninguém é de ninguém, aí você criou um ambiente propício para esse tipo de situação que nós temos hoje.
+Então, acho que é um problema tão grande, deputado Davi, que não existe uma solução fácil, não existe um artigo, um dispositivo, uma medida que sozinha ela vai resolver o problema.
+Então, acho que são diversas camadas de solução que precisam ser colocadas. Primeira, responsabilidade das plataformas no conteúdo, uma corresponsabilização,
+identificação dos usuários e uma estrutura de Estado que seja capaz de regulamentar, exigir a identificação, dizer como é que vai ser essa identificação.
+Como você falou, tem que identificar, mas como é que identifica? É CPF, é só, aí eu pego o CPF do deputado Amaro Neto, coloco o CPF, é dele,
+e saio fazendo o que eu quiser na internet no nome dele. Então, você precisa ter mecanismos para garantir que aquela identificação seja correta,
+para punir, para criar mecanismos para que as plataformas busquem a identificação correta, para depois punir aquelas que não fazem e regulamentar, fiscalizar e punir.
+Então, toda essa estrutura, todo esse marco precisa ser construído. Esse marco, se fala muito aqui no congresso de marcos regulatórios, não existe um marco regulatório para o ambiente digital.
+Tão simples quanto isso.
+Eu só gostaria acrescentar, porque já que a gente está chegando a esse patamar, que o senhor está falando bem claro, que precisamos criar uma estrutura de Estado,
+ou seja, a estrutura que nós temos hoje ainda não é suficiente. Não poderia, digamos assim, vocês teriam essa capacidade legal, poderia fazer o convênio com, por exemplo,
+os Ministérios Públicos, Estaduais e Federais, para que eles, digamos, se fossem receptores das primeiras notícias, ou se crie, vamos dizer, comunicação WhatsApp,
+alguém me xingou, não vou falar ainda o lombo, alguém me xingou na internet, eu faço um print e "ó, esse camarada aqui está falando coisas absurdas,
+quero que abra uma ação, quero que derrubem". Vamos dizer assim, para tentar acelerar, porque eu imagino, 20 mil, 100 mil notícias por mês,
+você vai ter que colocar a gente trabalhando no país inteiro. Mas vamos dizer, diluir um pouco mais a, vamos dizer, o trabalho da Anatel com órgãos já não repressores,
+mas fiscalizadores, não ajudaria nessa questão?
+Com certeza ajudaria, deputado, mas eu vejo que assim, e aí voltando, a quantidade de pessoas que você pisaria, falar "esse o que o senhor mesmo colocou é algo inimaginável",
+talvez assim, primeira coisa seria estancar essa sangria, porque assim, esse volume é tão grande, porque seja do lado da, todo mundo tem incentivo a deixar esse volume crescer,
+então assim, as plataformas tem um modelo de negócio que, a partir do engajamento, então assim, quanto mais gente tiver falando, criando confusão,
+tem um interesse nisso, então assim, de um lado você tem um anonimato que não cria nenhum incentivo para você ser minimamente civilizado no ambiente digital,
+e do lado da plataforma não existe nenhuma responsabilidade para que ela puna aqueles usuários, bloqueia aqueles usuários, modere aqueles usuários que estão sendo selvagens
+no ambiente digital, então você tem os dois, a fome e a vontade de comer junto, é basicamente isso, se você, enquanto você não estancar esse problema,
+o volume vai ser muito grande, se você estancar esse problema, pode ser que o volume certamente vai diminuir, e aí você consegue fazer um trabalho mais assertivo,
+porque aí se eu entrar lá com o meu nome, meu CPF, intejo identificado e falar algo, uma mentira sobre o deputado Davi Soares, o senhor pode ir atrás de mim,
+o senhor pode ir atrás de mim na pessoa física, me punir e direito de resposta, então assim, você consegue fazer com que toda a estrutura constitucional,
+regulatório e legal que hoje foi construída, funcione, o problema é que a constituição não está sendo cumprida, simples assim, é verdade o anonimato,
+o anonimato está aí, o anonimato não é a exceção, o anonimato é a regra, esse é o grande problema.
+Com a palavra agora deputado Jefferson Campos.
+Muito obrigado deputado Amaro Neto, em nome de quem parabenizo todos os subscritores desse requerimento que nos traz aqui nosso querido Carlos Baigorre,
+parabenizá-lo pelo trabalho na frente da Natel, e apenas frisar mais uma vez as pertinências das colocações feitas até o momento,
+deputado Davi que brilhantemente trouxe a baile aqui a vários assuntos importantíssimos que nós estamos tendo, e é um assunto que está hoje em voga na casa,
+acabei de chegar da Comissão de Relações Exteriores onde também estávamos debatendo sobre esse tema das fake news, o plenário,
+e todos os dias nós estamos vendo, e principalmente nessa tragédia do Rio Grande do Sul, até nós mesmos às vezes temos que confrontar as realidades e a verdade
+para que a gente não seja confundido, os tempos novos estão nos exigindo isso, quando eu nasci encontrei esses dias uma carta da minha mãe para minha avó
+dizendo que ela estava grávida, quando voltou a resposta eu já tinha nascido, porque eram meses até chegar lá no estado do Paraná, depois a avó respondia,
+hoje nós estamos aqui falando para o mundo todo de forma online, no mundo todo se acessarem aqui as nossas redes estão nos acompanhando,
+então esses tempos novos exigem isso, hoje nem as punições para os golpistas, os fraudadores nós estamos conseguindo, todos os dias alguém aperfeiçoa o sistema dos golpes
+e nós estamos vendo isso se multiplicar infelizmente a cada dia, então nesse sentido quero parabenizá-lo e aproveitar aqui uma fala do deputado que me antecedeu
+a respeito do sistema EGOV, porque realmente punir após a publicação é realmente muito, está sendo muito difícil esse sistema, mas nós temos hoje a porta de entrada
+o EGOV nós já usamos aqui deputado David para assinar documentos oficiais, os nossos ofícios enviados ao executivo, estão recebendo nosso querido?
+Seja muito bem vindo a casa, nós estamos enviando ao executivo todos os nossos ofícios, seja por emendas, seja por petições pelo EGOV, já estamos assinando em cartórios
+pelo EGOV, não precisamos ir lá, assinar, reconhecer firma, porque ali há um código eficiente, é claro que há ainda imperfeições, mas eu quero aproveitar
+essa sugestão que foi deixada pelo meu amigo para que a gente possa ter essa continuidade, nós sabemos que o tempo exige isso, nós não queremos
+de maneira alguma ser participantes de fake news ou de dissiminá-la, mas também não podemos ter cerceado a nossa liberdade de opinião
+e a gente vê muito isso, a linha tênue que há entre a verdade e a mentira e a disseminação do que é verdade e mentira, e é lógico, sempre respeitando
+livre pensamento e sempre aqueles que acederem a sua possibilidade de se expressar que sejam também punidos, então é nesse sentido apenas
+parabenizado pelo trabalho da Anatel, que nós vemos que é um trabalho de grande eficiência e estar pronto para os desafios que ainda teremos à frente
+diante de um assunto tão importante e relevante como a questão das fake news, da verdade, da liberdade de expressão, como nós defendemos
+e estamos aqui para isso. Um abraço, muito obrigado.
+Obrigado deputado Jefferson, essa ideia que o deputado Davi colocou e vossa excelência subscreveu agora de fato é muito inteligente, a gente vai levar de volta
+para nossa equipe regulatória para estudar a possibilidade de de alguma forma vincular a entrada numa plataforma social, numa rede social
+pelo GOVBR, pelo EGOV. A grande dificuldade é aí de novo, é o Alco Simular, conforme o deputado Silas Câmara, o presidente Silas Câmara colocou
+nós não temos uma competência expressa para criar regras para plataformas sociais, entretanto como eu coloquei no começo da minha fala
+as plataformas de redes sociais são usuários do serviço de telecomunicações, então assim do ponto de vista legal eu sou usuário do serviço de telecomunicações
+o Facebook é usuário do serviço de telecomunicações, o Netflix é usuário do serviço de telecomunicações, então assim, eles não são empresas de telecomunicações
+entretanto, mas isso não quer dizer que como usuários do serviço de telecomunicações eles não tenham obrigações. O artigo 4º da Lei Geral de Telecomunicações
+traz deveres para os usuários e a gente pode estudar sobre essa perspectiva, avaliar a possibilidade de implementar a proposta aqui trazida
+e agradeço mais uma vez pela sua apresentação. Com a palavra a deputada Gisela Simona.
+Bom dia a todos, primeiro quero parabenizar o deputado Amaro Neto pela autoria do requerimento desse momento importante para que a gente realmente conheça
+essa parceria da Natel com o TSE com relação ao combate às fake news porque se não até mesmo nós caímos aí fake news, então muito importante esse momento
+e diante das suas falas na verdade dentro desse contexto de conhecer mas também de avançar, uma pergunta que eu faria com relação à parceria já existente
+quando o senhor fala da impossibilidade da Natel de na verdade combater aí a postagem específica mas a plataforma na verdade em determinado momento
+você acaba atingindo uma rede de usuários de consumidores vamos colocar aí daquela plataforma aqui quando cai todos são atingidos né então queria saber
+se o senhor já enfrentou essa situação né como que isso é combatido do ponto de vista de danos a esses terceiros aí envolvidos né e dentro dessa questão do avançar
+eu perguntaria se a saída né nós aqui como o parlamento seria alterar o artigo 61 da lei geral de telecomunicações que coloca os limites de competência da Natel
+né mas ao mesmo tempo saber você entende que hoje a Natel é autoridade que seria a competência para fazer esse trabalho ou dentro dos órgãos reguladores
+ou das próprias outras autoridades que tem no governo federal né você acredita que divide essa competência com outros órgãos e quais eles seriam
+né e ao mesmo tempo como foi colocada aqui é da questão da vedação do anonimato que a nossa constituição federal já estabelece né quando você fala dessa identificação do usuário
+né o senhor começou inclusive mencionando o exemplo com o chip hoje é do telefone pré pago né que o consumidor acaba tendo que fazer um cadastro prévio né é uma uma posição técnica já da Natel
+de qual seria esse melhor meio de se identificar né seria por essa questão é é do registro é aí desse cidadão é um cadastro seria uma questão do IP como faz o comissão de gestor
+seria o gov como disse aqui o nosso deputado Davi enfim gostaria de saber né do senhor aí como é seria esse meio na sua visão mais adequado para a identificação é isso
+obrigado deputada gisela é sobre é vou começar pelo final sobre a questão da de como fazer essa essa identificação é a questão da identificação ela pode ser implementada de várias formas e aí eu vou abordar algumas que a senhora
+é vossa excelência apresentou a primeira sobre sobre a possibilidade de fazer vir o golpe br eu acho que ela seria muito adequada é mas eu não sei se por exemplo ela cobriria todas as situações possíveis quando a gente fez eu vou dar um exemplo do cadastro pré pago quando o congresso apresenta aprovou a lei do congresso pré pago do cadastro pré pago foi um pouco antes da do panamericano não lembro exatamente o ano mas enfim e aí tinha uma obrigação prevista na lei que o cadastro deveria ser feito com o nome cpv
+e aí a gente logo no panamericano tivemos um problema porque vários estrangeiros vieram ao brasil não tinha cpv e aí a gente teve que interpretar a lei para aceitar o cadastro com passaporte então vamos imaginar que tem um brasil um estrangeiro no brasil que não vai ter o golpe br ele não vai ter acesso a plataforma então a gente tem que pensar esse é um trabalho bastante complexo a gente tem que pensar nos diversos cenários possíveis para garantir que todo mundo possa utilizar para não bloquear o seu
+governo com essa estrutura mas eu não sei se uma empresa tem golpe então a gente tem que pensar nisso precisa ter cnpj às vezes tem associações que não tem personalidade jurídica então a gente tem que pensar em vários vários cenários e ver como que isso se encaixa e deixar uma saída para casos não previstos então assim isso é uma uma questão pelo ip e eu entendo que isso hoje não é possível porque assim o ip é um endereço como se fosse um número na internet e o a grande maioria da da
+então hoje base caminha como se fosse número de telefone que acabou e aí as pessoas compartilham o mesmo número então assim pelo ip eu não vou conseguir encontrar uma pessoa única eu encontrar um grupo de pessoas e aí eu não consigo rastrear individualizar aquela conduta
+enquanto não houver uma adesão massiva do ipv6 que é um trabalho que a natal está fazendo a gente não vai conseguir identificar via o número ip então o ip ainda não é uma solução adequada para essa identificação mas eu entendo que a identificação é sim um passo essencial a natal já conseguiu fazer esse trabalho a contento no cadastro prepago então por exemplo uma coisa que no cadastro prepago que até um problema muitas pessoas especialmente pessoas politicamente exposta como
+vossas excelências tinham pessoas que pegavam seu cpf e cadastravam o chip prepago com seu nome e seu cpf e saia cometendo crimes quando a polícia ia atrás e encontrava chegava no seu registro e você não tinha nada a ver com isso então hoje a natal fornece uma consulta onde você coloca o seu cpf e ele te mostra todos os números prepagos associados a isso você poderia fazer algo assim a senhora vai lá vossa excelência colocaria lá o seu cpf seu nome alguma identificação
+de solução para identificação e vinculação de uma pessoa jurídica ou natural a uma conta para que você possa a partir daí acabar com o anonimato reduzir nunca vai acabar a gente tem que ter essa essa essa esse conhecimento é impossível acabar com as
+condições de anonimato nas redes para que as pessoas possam começar a ser identificadas e responsabilizadas pelos seus atos no ambiente digital eu acho que isso é o primeiro passo a condição da natal enquanto agência para poder exercer esse papel para mim é inquestionável
+nas eleições de 2024 demonstra que nós temos as condições de dar resposta à sociedade brasileira quando a gente olha para nossa capacidade também de criar esses cadastros identificar soluções técnicas para a
+identificação no caso do cadastro prepago também para as aplicações de internet me parece bastante bastante óbvio quando a gente olha para a estrutura de pessoal da agência hoje a agência tem 1000 mais de 1300 servidores
+concursados eu sou servidor concursado toda basicamente toda toda equipe técnica da natal é de serviço dos servidores concursados só os membros diretores não são servidores concursados eu sou um deles mas
+sou concursado é nós temos sede escritórios em todas as unidades da federação então assim nós temos conhecimento técnico nós usamos nós conhecemos de ambiente digital de tecnologia seja para combater fake news para
+combater tv pirata as tv box então assim nós temos conhecimento e nós temos capacidade estrutura e gente e expertise para fazer regulamentação mas o mais importante para fiscalizar e punir
+porque fazer uma regra e imaginar que os agentes vão cumprir essa regra porque ela está escrita é uma é uma é uma inocência sem tamanho se você porque você tem que criar a regra e tem que ter alguém para fiscalizar
+essa regra e cumprir essa regra e muitas vezes deputada eu acho que é importante ter essa noção de que nenhuma lei criada por esse congresso nacional vai ser capaz de prever todos os mínimos detalhes todas as situações que podem acontecer
+então a lei precisa ser o que a gente chama de uma lei quadro de uma lei com princípios com diretrizes e que os espaços que ficam ali em branco sejam preenchidos por uma lei por uma regulamentação infralegal porque as regras vão mudar e quando a gente está falando de combater fraude combater anonimado combater mal feito na internet se você faz uma regra hoje escreve todos os detalhes aqui no congresso nacional daqui a duas semanas já vai já burlaram essa regra criaram um novo esquema
+que vai demorar mais não sei quanto tempo aí depende muito para criar uma nova regra e aí então assim viram enxugar gelo que não acaba nunca até para nós que fazemos processos mais séries mas que precisamos até para uma questão de legitimidade fazer consulta pública análise impacto regulatório também sofremos com isso então é preciso ter um ambiente onde a regulação infralegal seja mais séria possível para se adequar a mudança de contexto tem uma estrutura capaz de fiscalizar com eficiência usando tecnologia
+de fichas e
+a gente está fazendo esse trabalho que nós acreditamos sermos a melhor instituição hoje a instituição mais capacitada para fazer isso isso vai ser feito sozinho a natal claro que não isso vai ser feito parcerias com diversos outros órgãos por exemplo até na regulação de telecomunicações nós temos uma parceria muito profunda com cada porque toda a questão concorrencial ela é regulada pela regulação de
+telecomunicações da natal em conjunto com cada então nós temos acordo de cooperação somos parceiros então assim temos uma ótima relação institucional de mais de 20 anos então assim a natal nunca vai fazer nada sozinha ela vai fazer com o ministério público com a justiça eleitoral com cada com com congresso nacional e certamente deputado de
+zela nós somos assim o mais habilitado para isso e na questão da primeira pergunta que a senhora me fez eu vou me desculpar se o seu poder refazê-la sobre alteração da lei de geral de telecomunicações né seria o artigo 61 ali a mudança eu acho que não seria é necessário fazer alteração mas eu quero que a gente tenha uma
+mudança mais estrutural mas uma coisa que eu coloquei no dano de direção de internação é que a gente precisa de fazer mais alterações porque o artigo 61 ele fala especificamente do que é o serviço de valor adicionado então a gente precisaria mudar os primeiros
+detalhes também quando define o espaço de competência da natal e o artigo terceiro e quarto se não me engano que traz detalhada quais são as competências então assim precisaria de uma mudança mais estrutural mas uma coisa que eu coloquei durante os debates do
+2630 é que uma mudança que eu entendo ser essencial é em a natal assumindo competência de de desse nível de sensibilidade social e política que o nosso conselho consultivo que hoje é um conselho nos termos da lei o conselho que representa a sociedade
+dentro da natal e lá tem os a câmara dos deputados representado senado federal os usuários as empresas a sociedade civil o poder executivo esse conselho ele precisaria ser aumentado para trazer o
+judiciário o ministério público ou a b enfim jornalistas é para trazer mais agentes para aumentar as vozes nesse conselho consultivo e empoderado também porque hoje a lei prevê só algumas matérias que são que passam necessariamente pular então você poderia dar mais competências para esse conselho consultivo e ampliar a representatividade desse conselho consultivo uma vez que essa matéria é extremamente sensível extremamente delicada tanto ponto de vista social quanto do ponto de vista político
+estamos caminhando para a reta final da nossa audiência pública mas o o o presidente bai gore falou uma questão sobre registro de site eu queria me aprofundar nessa questão o senhor chegou a falar de valores eu queria saber é como é que é isso e nessa questão até de cpf e tudo mais registro do meu nome num site e esse recurso é público privado como é que é para o público privado
+é deputado o o decreto que criou o comitê gestor da internet ele ele prevê eu lembro do artigo acho que o artigo 13 ele prevê que essa atividade que é uma atividade econômica de administração de números e p e registro de domínios ela seria feita por uma entidade pública ou privada sem fins lucrativos hoje ela é feita por uma entidade privada sem lucro sem fins lucrativos é uma associação é sem fins lucrativos
+é chamada nick br nick.br e ela que faz toda essa administração esses recursos são recolhidos eu acho que são 40 reais não lembro exatamente 40 reais por domínio eles são recursos privados não vão não vão para o tesouro não são recursos públicos eles são recursos privados e ano passado arrecadou se eu sei isso porque eu repreendo até eu tenho assento no comitê gestor da internet e o nosso representante lá também é membro do conselho fiscal do nick.br e ano passado foram arrecadados pouco mais de 180
+milhões de reais a título de registro de domínio então é um recurso privado que é recolhido para essa para essa para essa associação sem fins lucrativos.
+Obrigado.
+Obrigado.
+Obrigado deputado deputado Amaro Neto agradecer a presidente todos os parlamentares agradecer a oportunidade de fazer esses esclarecimentos e colocar a visão da natel e a sua atuação no combate às fake news e dizer e reiterar esse ponto assim é importante que
+matérias legislativas que tratem de questões que tem um componente tecnológico e toda a questão digital tem seja inteligência artificial seja fake news que elas criam um espaço para regulamentação infra legal caso contrário
+se elas foram extremamente detalhadas elas elas rapidamente ficaram obsoletas então o que o que eu vejo é minha posição institucional e pessoal também que leis mais amplas mais principiológicas leis quadros que deixem espaço para a regulamentação infra legal se mostram mais adequadas onde você tem um contexto com um forte componente tecnológico a lei geral de telecomunicações foi feita assim e desde 1997 ela não é mais adequada.
+E desde 1997 ela não precisou ser alterada porque ela teve essa concepção então nós passamos pela regulação do telefone fixo do orelhão do 2G do 3G do 4G da banda larga do 5G então assim esse tipo de disposição de técnica legislativa é muito adequada para esse tipo de contexto é uma pergunta que o deputado Devis Soares fez eu que não respondi é que em a natel assumindo esse tipo de atribuição que nós defendemos
+não seria necessário o aumento do quadro de servidores autorizados por lei hoje nós já temos um quadro de servidores autorizado ele não está pleno até porque estamos fazendo concursos públicos tivemos que suspender recentemente nosso concurso público mas a simples recomposição do nosso quadro já seria mais do que o suficiente para a natel poder assumir essas novas ou essas novas atribuições a questão orçamentária também não é algo não é algo não é um ponto deleito.
+Nós temos um orçamento adequado até mesmo porque nós temos competência tributária e arrecadamos alguns bilhões de reais todo ano então eu gostaria só de agradecer colocar mais uma vez a natel a disposição do Congresso Nacional da Sociedade Brasileira para que a gente possa ajudar a enfrentar essa situação é caótica que temos hoje no ambiente digital.
+Obrigado presidente registro final da presidente da comunicação da comissão de ciência e tecnologia.
+Nelia que deputado Amaro só quero agradecer a presença e participação do presidente Carlos e agradecer a natal também a forma que vem nos recebendo através da da que vem recebendo a comissão com muito carinho com muito respeito e que estamos aqui abertos para poder discutir colaborar em todas as faltas importantes e a discussão daqui hoje é extremamente importante para todo o cenário não só político mas o cenário nacional
+a gente vê o quanto isso vem tomando conta da nossa nação e adoecendo a nossa nação então temos que discutir bastante para encontrarmos o caminho da solução encontrar uma vacina para esse problema que é tão sério no nosso país mas muito obrigada é por sua visita que hoje pelos seus esclarecimentos.
+Gostaria de agradecer a presidente Nelia aqui no pelas palavras nessa consideração final da nossa comissão de ciência e tecnologia reunião conjunta com a comissão de comunicação gostaria de agradecer os senhores parlamentares aos assessores aos profissionais de imprensa ao público em geral e mais uma vez ao Carlos Baigorri pelas importantes contribuições trazidas a esse debate.
+Não havendo mais quem queira tratar nada mais a tratar declara encerrado os trabalhos e lembro que instantes daremos início a reunião deliberativa extraordinária consulto aos colegas se possamos se podemos aproveitar o painel para a nossa audiência ou melhor para a nossa reunião da comissão de ciência e tecnologia que vai começar dentro de instantes está encerrada a audiência pública.
+.
